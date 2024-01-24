@@ -5,7 +5,7 @@
 Window Aligner is a desktop application built with Python and tkinter. It allows users to manage the position and size of application windows on their desktop. This utility is particularly useful for organizing multiple windows on large screens or multi-monitor setups.
 
 
-##Please note I made this in about an hour... It is very raw and not complete but it is functional.
+## Please note I made this in about an hour... It is very raw and not complete but it is functional.
 
 
 ## Features
